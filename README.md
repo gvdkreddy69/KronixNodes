@@ -1,9 +1,5 @@
 # KronixNodes
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
-
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
